@@ -1,0 +1,6 @@
+FastAPI
+sigils
+uvicorn
+sdist
+build
+twine
